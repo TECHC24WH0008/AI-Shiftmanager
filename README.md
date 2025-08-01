@@ -115,12 +115,7 @@ python setup_fonts.py
 
 5. **統一UI版アプリケーションを起動**
 ```bash
-python main_unified.py
-```
-
-または従来版を起動
-```bash
-python main_refactored.py
+python main.py
 ```
 
 ## 🎯 使用方法
@@ -307,5 +302,6 @@ python tools/download_fonts.py
 **Made with ❤️ for small businesses**
 
 *AI Shift Manager - 統一UI版で、より美しく、より使いやすく*
+
 
 **🎨 統一UIシステムで、シフト管理の未来を、今すぐあなたの手に**
