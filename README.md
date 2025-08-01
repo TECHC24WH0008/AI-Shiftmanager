@@ -141,8 +141,7 @@ python main.py
 
 ```
 ai-shift-manager/
-├── main_unified.py             # 統一UI版メインアプリケーション
-├── main_refactored.py          # 従来版メインアプリケーション
+├── main.py                     # 統一UI版メインアプリケーション
 ├── setup_fonts.py              # フォントセットアップスクリプト
 ├── ui/                         # ユーザーインターフェース
 │   ├── unified_components.py   # 統一UIコンポーネント
@@ -305,3 +304,4 @@ python tools/download_fonts.py
 
 
 **🎨 統一UIシステムで、シフト管理の未来を、今すぐあなたの手に**
+
