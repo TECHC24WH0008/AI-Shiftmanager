@@ -260,7 +260,7 @@ def create_fallback_ui():
             "📧 サポート:\n"
             "support@ai-shift-manager.com\n\n"
             "🌐 GitHub:\n"
-            "https://github.com/yourusername/ai-shift-manager"
+            "https://github.com/TECHC24WH0008/AI-Shiftmanager"
         )
     
     def show_demo():
